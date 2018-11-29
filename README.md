@@ -1,4 +1,4 @@
-# 使用Android Studio，解析網站原始碼
+# 使用Android Studio，解析網頁原始碼
 + 解析程式為fetchData
 + 主畫面程式為MainActivity.java
 ### AsyncTask：耗時工作設計
